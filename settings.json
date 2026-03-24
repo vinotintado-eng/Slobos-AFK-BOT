@@ -8,7 +8,7 @@
   "server": {
     "ip": "Chiquitapiano.aternos.me",
     "port": 22316,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
