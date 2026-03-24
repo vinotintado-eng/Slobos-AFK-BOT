@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Chiquitapiano.aternos.me",
+    "ip": "Chiquitapiano.aternos.me:22316",
     "port": 22316,
     "version": "1.21.11"
   },
